@@ -1,5 +1,5 @@
 <template>
-    <div class="w-full h-vh bg-yellow">
-        
+    <div class="w-8 aspect-square bg-yellow">
+
     </div>
 </template>
